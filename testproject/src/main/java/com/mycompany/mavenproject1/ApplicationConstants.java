@@ -14,7 +14,7 @@ public class ApplicationConstants {
     // Twitter application specific secret constants.   
     public static final String CONSUMER_KEY_KEY = "K2gUouDEN2oS5wk1oWmly1IEA";
     public static final String CONSUMER_SECRET_KEY = "fvXkxbP7ao9zgRbiMZebUCwz5aY3uc1p7xpDbHvGh2rcGmgNid";
-    public static final String ACCESS_TOKEN_KEY = "434039210-iY0myfmXVSOivGCc6QL8MimL1raZcFCs59ihMPaV";
+    public static final String ACCESS_TOKEN_KEY = "*********-iY0myfmXVSOivGCc6QL8MimL1raZcFCs59ihMPaV";
     public static final String ACCESS_TOKEN_SECRET_KEY = "jEL9epBXGsnpWREeMO7u3rpYUEikr2gfUGSpsekHDFBuY";
  
     // constants
